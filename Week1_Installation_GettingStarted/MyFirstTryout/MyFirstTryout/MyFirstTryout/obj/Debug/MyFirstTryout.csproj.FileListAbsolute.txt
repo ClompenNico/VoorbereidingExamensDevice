@@ -1,0 +1,16 @@
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\bin\Debug\MyFirstTryout.dll
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\bin\Debug\MyFirstTryout.pdb
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\bin\Debug\Xamarin.Forms.Core.dll
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\bin\Debug\Xamarin.Forms.Platform.dll
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\bin\Debug\Xamarin.Forms.Core.pdb
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\bin\Debug\Xamarin.Forms.Core.xml
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\obj\Debug\MyFirstTryout.csprojResolveAssemblyReference.cache
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\obj\Debug\MyFirstTryout.csproj.CoreCompileInputs.cache
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\obj\Debug\MyFirstTryout.MainPage.xaml.g.cs
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\obj\Debug\MyFirstTryout.App.xaml.g.cs
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\obj\Debug\MyFirstTryout.dll
+C:\SOURCE\VoorbereidingExamensDevice\Week1_Installation_GettingStarted\MyFirstTryout\MyFirstTryout\MyFirstTryout\obj\Debug\MyFirstTryout.pdb
